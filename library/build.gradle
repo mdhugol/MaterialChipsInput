@@ -32,8 +32,7 @@ dependencies {
 
     // recycler
     compile 'com.android.support:recyclerview-v7:25.3.0'
-    compile 'com.beloo.widget:ChipsLayoutManager:0.3.7@aar'
-
+    compile 'com.github.BelooS:ChipsLayoutManager:v0.3.7'
     // circle image view
     compile 'de.hdodenhof:circleimageview:2.1.0'
 
